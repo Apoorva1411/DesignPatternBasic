@@ -19,15 +19,34 @@
   
   Example : 
   
-    // Responsibility of class is to maintain details and fetch details of employees
-    class Employee
+  Lets take example of designing Task management project which creates task and schedule the same/
+  We will have two main role in this case i.e Task Scheduler and Task Manager. Please find below the definition of classes/
+  
+    // Responsibility of class is to schedule the task present in queue
+    public class TaskScheduler
     {
-      //class member describing attributes of class Employee
-      string name;
-      string id;
-      string designation;
+        private IQueue queue;
+        public TaskScheduler()
+        {
+            //Constructor
+        }
+        public void Schedule()
+        {
+            //scheduler
+        }
+    }
     
-      //Method to operate on Employee data.
-      GetEmployeeDetails();
+    
+    // Responsibility of class is to create and queue the task into queue.
+    public class TaskManager
+    {  
+        public TaskManager()
+        {
+        }
+
+        public void TaskCreation()
+        {
+         //creation of task   
+        }
     }
   
