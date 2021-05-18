@@ -1,9 +1,12 @@
 # Single Resposibility Principle
 >
   This responsibity is related to <strong><em>"Encapsulation"</em></strong> concepts in OOPS.
+  >
   As per this principle, One class/ function should have one reason for existence i.e one responsibility.
-  Data and Methods related to that calss would be bound together.
-  Hence  <strong><em>Maintenabilty</em></strong> of class would be easier with minimal change when we have to alter the existing code.
+  >
+  Data and Methods related to that class would be bound together.
+  >
+  Therefore  <strong><em>Maintenabilty</em></strong> of class would be easier with minimal change when we have to alter the existing code.
   
 >
   During Design ,
