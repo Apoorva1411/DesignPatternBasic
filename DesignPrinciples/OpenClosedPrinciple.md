@@ -10,7 +10,7 @@ Lets take example of Movie Booking again: Please find the classes and responsibi
 
 Here We can separate the search class which search with certain condition and later we can have interface implemented and given to booking service as shown below 
 
-<img src="C:\Users\310252915\Desktop\Training\DesignPattern\DesignPrinciples\OCD.png" style="zoom:70%;" />
+<img src="OCD.png" style="zoom:70%;" />
 
 
 
