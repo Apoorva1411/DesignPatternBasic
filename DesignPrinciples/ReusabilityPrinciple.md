@@ -21,7 +21,7 @@ Inheritance to be applied only if :
   <li><i>Group of classes form family</i></li>
   <li><i>other classes uses complete code present in Base class</i></li>
 </ul>
-<img src="Inheritence.png" style="zoom: 50%;" />
+<img src="Images\Inheritence.png" style="zoom: 50%;" />
 
 As shown in Diagram Commonality have been moved to base class i.e Control. Window and Text Box uses this control.
 
@@ -42,7 +42,7 @@ Object re-use can be broadly classified as
 
  This tells that one object <i>"**belongs**"</i> to another object. As shown in Diagram lab Report belongs to Patient and is identified by patient Reference
 
-<img src="Assosiation.png" style="zoom:70%;" />
+<img src="Images\Assosiation.png" style="zoom:70%;" />
 
 
 
@@ -53,7 +53,7 @@ Object re-use can be broadly classified as
 
 
 
-<img src="Composition.PNG" style="zoom:70%;" />
+<img src="Images\Composition.PNG" style="zoom:70%;" />
 
 
 
@@ -66,5 +66,5 @@ Object re-use can be broadly classified as
 
  This tells that object A <i>"**holds**"</i> object B. Lifespan of object B is not dependent on object A.  Ex: Company holds Tester. where Company can exist without Tester.
 
-<img src="Aggregation.PNG" style="zoom:70%;" />
+<img src="Images\Aggregation.PNG" style="zoom:70%;" />
 

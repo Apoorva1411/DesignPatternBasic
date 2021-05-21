@@ -4,7 +4,7 @@
 
 Lets again take example of Movie Booking . Applying SRP principle we have identified roles and responsibility for each class as shown below: 
 
-<img src="SRP_ClassesWithResponsibility.png" style="zoom:70%;" />
+<img src="Images\SRP_ClassesWithResponsibility.png" style="zoom:70%;" />
 
 
 
@@ -18,7 +18,7 @@ Lets again take example of Movie Booking . Applying SRP principle we have identi
 
 Please find MovieRepository interface below after applying DIP: 
 
-<img src="DependencyInversion.PNG" style="zoom:70%;" />
+<img src="Images\DependencyInversion.PNG" style="zoom:70%;" />
 
 
 

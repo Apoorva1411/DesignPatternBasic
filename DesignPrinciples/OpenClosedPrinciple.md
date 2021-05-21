@@ -4,13 +4,13 @@
 
 Lets take example of Movie Booking again: Please find the classes and responsibility as shown in below diagram: 
 
-![](SRP_ClassesWithResponsibility.png)
+![](Images\SRP_ClassesWithResponsibility.png)
 
 
 
 Here We can separate the search class which search with certain condition and later we can have interface implemented and given to booking service as shown below 
 
-<img src="OCD.png" style="zoom:70%;" />
+<img src="Images\OCD.png" style="zoom:70%;" />
 
 
 
@@ -18,7 +18,7 @@ In this scenario , we can route the search mechanism based on requirement , if w
 
 
 
-<img src="OCD2.PNG" style="zoom:70%;" />
+<img src="Images\OCD2.PNG" style="zoom:70%;" />
 
 
 

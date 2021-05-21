@@ -16,7 +16,7 @@
 
 Please find below UML diagrams of classes with their responsibility for movie booking: 
 
-![](SRP_ClassesWithResponsibility.png)
+![](Images\SRP_ClassesWithResponsibility.png)
 
 
 
