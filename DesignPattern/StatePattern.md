@@ -7,6 +7,5 @@
 For Example , we can take Bank Account transaction based on our Balance , we can see our account in different states like Active , Suspended or ODState. The transition happens with some condition i.e available balance is less than min balance etc. This pattern can be achieved by using Single Responsibility and  Dependency Inversion principle. We will have to identify the responsibility of each state and define class. Later substitute it with current state of account. Please find UML for same.
 
 
-
-![](Images\StatePattern.PNG)
+<img src="Images\StatePattern.PNG" style="zoom:80%;" />
 
