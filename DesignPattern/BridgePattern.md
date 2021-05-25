@@ -8,4 +8,4 @@ For Example We can take Usage of many remote functionality for different applian
 
 Please find the below UML for the same
 
-![](Images\BridgePattern.PNG)
+<img src="Images\BridgePattern.PNG" style="zoom:80%;" />
