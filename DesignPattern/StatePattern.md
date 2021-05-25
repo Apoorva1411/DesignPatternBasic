@@ -8,5 +8,5 @@ For Example , we can take Bank Account transaction based on our Balance , we can
 
 
 
-![](Images\State Pattern.PNG)
+![](Images\StatePattern.PNG)
 
