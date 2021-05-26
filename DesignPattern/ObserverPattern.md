@@ -8,4 +8,4 @@
 
 Please find UML for same : 
 
-![](Images\ObserverPattern.PNG)
+<img src="Images\ObserverPattern.PNG">
