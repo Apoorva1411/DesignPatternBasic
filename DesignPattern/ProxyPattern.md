@@ -10,4 +10,4 @@ Please find UML for same :
 
 
 
-![](Images\Proxy.png)
+<img src ="Images\Proxy.png">
