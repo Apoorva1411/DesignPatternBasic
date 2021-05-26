@@ -6,7 +6,7 @@
 
 Please find the UML for same
 
-![](Images\Mediator.png)
+<img src="Images\Mediator.png">
 
 
 
