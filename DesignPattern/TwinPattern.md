@@ -6,4 +6,4 @@
 
 Please find UML for same: 
 
-<img src = "Images\TwinPattern.png">
+<img src = "Images\TwinPattern.PNG">
