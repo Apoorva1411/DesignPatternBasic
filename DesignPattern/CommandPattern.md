@@ -12,4 +12,4 @@ For example we can take ICommand interface used in MVVM(Model - View - ViewModel
 
 Please find UML for same: 
 
-<img src = "Images\CommandPattern.png">
+<img src = "Images\CommandPattern.PNG">
