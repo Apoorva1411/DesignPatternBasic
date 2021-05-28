@@ -11,8 +11,6 @@
 ​	We can propose solution to above problem by looping through shapes and down casting it to particular shape and print but this would violate LSP rule . Hence we separate the functionality required to execute on every member into separate class and call it ***Visitor Class*** . The derived class would accept the visitor class object and perform the activity using the current pointer.  Have illustrated same in below diagram: 
 
 
-
-![](Images\VisitorPattern.png)
-
+<img src="Images\VisitorPattern.png"/>
 
 
