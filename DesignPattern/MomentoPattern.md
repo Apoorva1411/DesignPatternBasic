@@ -6,7 +6,7 @@ For Example we can consider TextEditor which does undo operation when user wants
 
 
 
-<img src="Images\MomentoPattern.PNG" style="zoom:100%;" />
+<img src="Images\MomentoPattern.png" style="zoom:100%;" />
 
 
 
